@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/:/"
+    "/content/aem-forms/:/",
+    "/content/aem-forms/configuration:/.helix/config.json",
+    "/content/aem-forms/metadata:/metadata.json"
   ]
 }
